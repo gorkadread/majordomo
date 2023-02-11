@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/majordomo/static/css/main.073c9b0a.css",
+    "main.js": "/majordomo/static/js/main.e39573ab.js",
+    "static/js/787.f459e828.chunk.js": "/majordomo/static/js/787.f459e828.chunk.js",
+    "static/media/logo.svg": "/majordomo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/majordomo/index.html",
+    "main.073c9b0a.css.map": "/majordomo/static/css/main.073c9b0a.css.map",
+    "main.e39573ab.js.map": "/majordomo/static/js/main.e39573ab.js.map",
+    "787.f459e828.chunk.js.map": "/majordomo/static/js/787.f459e828.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e39573ab.js"
+  ]
+}
